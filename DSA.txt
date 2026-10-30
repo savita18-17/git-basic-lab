@@ -1,1 +1,3 @@
-#DSA using 
+# DSA using stack
+stacks 
+Queue
